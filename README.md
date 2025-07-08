@@ -10,11 +10,11 @@
 ### Python 3.10 ou superior
 ### MySQL Server
 
-### Instale as dependências com o comando:
+##  Instale as dependências com o comando:
 ### pip install mysql-connector-python
 
 
-### Não esqueça de alterar as configurações de conexão com o banco de dados.
+##  Não esqueça de alterar as configurações de conexão com o banco de dados.
 ### config_db = {
 ###     'user': 'root',
 ###     'password': 'senha_interna',
