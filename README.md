@@ -12,12 +12,4 @@
 
 ##  Instale as dependências com o comando:
 ### pip install mysql-connector-python
-
-
-##  Não esqueça de alterar as configurações de conexão com o banco de dados.
-### config_db = {
-###     'user': 'root',
-###     'password': 'senha_interna',
-###     'host': 'localhost',
-###     'database': 'trabalho_final'
-}
+###  Não esqueça de alterar as configurações de conexão com o banco de dados!
